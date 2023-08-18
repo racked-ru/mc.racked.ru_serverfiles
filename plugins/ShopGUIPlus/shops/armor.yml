@@ -1,0 +1,38 @@
+armor:
+  name: "&4&lArmor (page %page%)"
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: LEATHER_HELMET
+        quantity: 1
+      buyPrice: 40
+      sellPrice: 8
+      slot: 10
+    2:
+      type: item
+      item:
+        material: LEATHER_CHESTPLATE
+        quantity: 1
+      buyPrice: 50
+      sellPrice: 10
+      slot: 19
+    3:
+      type: item
+      item:
+        material: LEATHER_LEGGINGS
+        quantity: 1
+      buyPrice: 50
+      sellPrice: 10
+      slot: 28
+    4:
+      type: item
+      item:
+        material: LEATHER_BOOTS
+        quantity: 1
+      buyPrice: 30
+      sellPrice: 6
+      slot: 37

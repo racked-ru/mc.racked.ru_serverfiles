@@ -1,0 +1,65 @@
+motd:
+  # Do you want to enable this feature?
+  motdEnabled: true
+
+  # Placeholders: {onlinePlayers} {maxPlayers}
+  # Use {br} to separate lines.
+  # Putting more than one will cause one to be randomly chosen each refresh
+  motds:
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                <Italic><rainbow>Funky*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>        <Italic><rainbow>Get Schwifty*</rainbow></Italic>" 
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>           <Italic><rainbow>Litty Titty*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>              <Italic><rainbow>Rip FHZ*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>             <Italic><rainbow>BOOBIES*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>       <Italic><rainbow>Just add milk*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>      <Italic><rainbow>Tell your mom*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>            <Italic><rainbow>U WOT M8*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                <Italic><rainbow>Flexin*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                <Italic><rainbow>Kawaii*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>          <Italic><rainbow>Since 2020*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                   <Italic><rainbow>WOW*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>     <Italic><rainbow>Special Edition*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                  <Italic><rainbow>UWU*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>           <Italic><rainbow>XXX Rated*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>              <Italic><rainbow>High Af*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>               <Italic><rainbow>Vegan*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>          <Italic><rainbow>Ok Boomer*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>                  <Italic><rainbow>Yes*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>           <Italic><rainbow>Noot Noot*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>              <Italic><rainbow>Dislexic*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>     <Italic><rainbow>404 Not Found*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>      <Italic><rainbow>Wyd Step Bro*</rainbow></Italic>"
+     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                                       <white>salvos.ddns.net</white>            <Italic><rainbow>OnlyFans*</rainbow></Italic>"
+#
+#     - "          <dark_purple>Survival</dark_purple> <dark_gray><bold>|</dark_gray></bold> <light_purple>X O V K A H</light_purple> <dark_gray><bold>|</dark_gray></bold> <dark_purple>1.16.2</purple>                       <rainbow>I sold my soul to the devil for designer.</rainbow>"
+#
+#
+#
+#
+#    - "<bold><gradient:black:white>----====[</gradient> <gradient:green:blue>UltraCraft <gradient:red:yellow></bold><italic>Official</gradient></italic><bold> <gradient:white:black>]=====----</gradient></bold>{br}<bold>    <gradient:#EEFF4A:#F7FFAE>Custom <italic>Survival</italic></gradient>    <color:#0092FF>Discord</bold><gray>:</gray> <gradient:#5FDAFF:#B8A6FF><italic>Ab3d5f"
+#    - "<rainbow>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||</rainbow>{br}<white>Hello <blue>{onlinePlayers} <gray>/</gray> {maxPlayers}</blue> Players Online"
+
+maxPlayers:
+  # Do you want to enable this feature?
+  maxPlayersEnabled: true
+
+  # Changes the Max Players value.
+  maxPlayers: 128
+
+  # Changes the Max Players to X more than the online players
+  # Example: 16/19 players online.
+  justXMoreEnabled: false
+  xValue: 3
+
+bungeeOnly:
+  # Do you want to enable this feature?
+  fakePlayersEnabled: false
+
+  # Modes: static, random, percent
+  #   static: This many fake players will be added
+  #     ex: fakePlayers: "3"
+  #   random: A random number of fake players in this range will be added
+  #     ex: fakePlayers: "3:6"
+  #   percent: The player count will be inflated by this much, rounding up
+  #     ex: fakePlayers: "25%"
+  fakePlayers: "25%"

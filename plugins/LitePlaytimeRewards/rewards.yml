@@ -1,0 +1,192 @@
+Rewards:
+  playtime_reward_1:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 2500
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&3Settler&8]&r'
+    - '&5Cash: &72500'
+    - '&5Auction House: &73 Auctions at a time'
+    - '&5Claims: &74 Chunks'
+    - '&r'
+    - '&r&7You must unlock this rank before'
+    - '&r&7You can use /ah & /shop'
+    - '&r&7You can claim & protect your land.'
+    - '&r&7Do /lands create'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #1'
+    Loop: false
+    Notification: §bYou have reached rank settler! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '45'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_2:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 5000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&9Lord&8]&r'
+    - '&5Cash: &75000'
+    - '&5Auction House: &76 Auctions at a time'
+    - '&5Claims: &78 Chunks'
+    - '&5Homes: &72 sethomes'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #2'
+    Loop: false
+    Notification: §bYou have reached rank Lord! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '360'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_3:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 8000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&6Baron&8]&r'
+    - '&5Cash: &78000'
+    - '&5Auction House: &710 Auctions at a time'
+    - '&5Claims: &716 Chunks'
+    - '&5Homes: &73 sethomes'
+    - '&5Members: &72 land members'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #3'
+    Loop: false
+    Notification: §bYou have reached rank Baron! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '960'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_4:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 12000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&dViscount&8]&r'
+    - '&5Cash: &712000'
+    - '&5Auction House: &710 Auctions at a time'
+    - '&5Claims: &732 Chunks'
+    - '&5Homes: &74 sethomes'
+    - '&5Members: &72 land members'
+    - '&5Lands: &7Extra land slot'
+    - '&r'
+    - '&r&7Unlocks the ability to'
+    - '&r&7claim land a additional plot separate'
+    - '&r&7from your first'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #4'
+    Loop: false
+    Notification: §bYou have reached rank Viscount! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '1920'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_5:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 15000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&eEarl&8]&r'
+    - '&5Cash: &715000'
+    - '&5Auction House: &710 Auctions at a time'
+    - '&5Claims: &764 Chunks'
+    - '&5Homes: &75 sethomes'
+    - '&5Members: &72 land members'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #5'
+    Loop: false
+    Notification: §bYou have reached rank Earl! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '3840'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_6:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 25000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&5Marquess&8]&r'
+    - '&5Cash: &725000'
+    - '&5Auction House: &710 Auctions at a time'
+    - '&5Claims: &7128 Chunks'
+    - '&5Homes: &75 sethomes'
+    - '&5Members: &72 land members'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #6'
+    Loop: false
+    Notification: §bYou have reached rank Marquess! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '7680'
+    SlotsNeeded: 0
+    UsePermission: false
+  playtime_reward_7:
+    BroadcastNotification: ''
+    Commands:
+    - lp user %player% promote
+    - xp give %player% 10
+    - eco give %player% 50000
+    CountAfkTime: true
+    CountAllPlaytime: true
+    DisabledWorlds: []
+    DisplayDescription:
+    - '&7&nThis create unlocks'
+    - '&r'
+    - '&rRank: &8[&bDuke&8]&r'
+    - '&5Cash: &750000'
+    - '&5Auction House: &710 Auctions at a time'
+    - '&5Claims: &7128 Chunks'
+    - '&r'
+    - '&r&7This ranks rewards are incomplete'
+    - '&r&7the rank reward system is undergoing'
+    - '&r&7a complete overhaul'
+    DisplayItem: ENDER_CHEST
+    DisplayName: '&b&oReward Crate #6'
+    Loop: false
+    Notification: §bYou have reached rank Duke! Congratulations!
+    NotificationType: BOSSBAR
+    PlaytimeNeeded: '15360'
+    SlotsNeeded: 0
+    UsePermission: false

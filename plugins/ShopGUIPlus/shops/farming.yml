@@ -1,0 +1,14 @@
+farming:
+  name: "&5&lFarming (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: BONE_MEAL
+        quantity: 16
+      buyPrice: 50
+      slot: 13

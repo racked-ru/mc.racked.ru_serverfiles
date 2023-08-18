@@ -1,0 +1,21 @@
+miscellaneous:
+  name: "&3&lMiscellaneous (page %page%)"
+  size: 45
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
+  items:
+    1:
+      type: item
+      item:
+        material: WHITE_BED
+        quantity: 1
+      buyPrice: 200
+      slot: 13

@@ -1,0 +1,114 @@
+blocks:
+  name: "&9&lBlocks (page %page%)"
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: GRASS_BLOCK
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 25
+      slot: 10
+    2:
+      type: item
+      item:
+        material: DIRT
+        quantity: 64
+      buyPrice: 30
+      sellPrice: 15
+      slot: 11
+    3:
+      type: item
+      item:
+        material: GRAVEL
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 25
+      slot: 12
+    4:
+      type: item
+      item:
+        material: COBBLESTONE
+        quantity: 64
+      buyPrice: 30
+      sellPrice: 15
+      slot: 13
+    5:
+      type: item
+      item:
+        material: ANDESITE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 25
+      slot: 14
+    6:
+      type: item
+      item:
+        material: DIORITE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 25
+      slot: 15
+    7:
+      type: item
+      item:
+        material: GRANITE
+        quantity: 64
+      buyPrice: 30
+      sellPrice: 15
+      slot: 16
+    8:
+      type: item
+      item:
+        material: OAK_Log
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 19
+    9:
+      type: item
+      item:
+        material: BIRCH_LOG
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 20
+    10:
+      type: item
+      item:
+        material: SPRUCE_LOG
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 21
+    11:
+      type: item
+      item:
+        material: DARK_OAK_LOG
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 22
+    12:
+      type: item
+      item:
+        material: JUNGLE_LOG
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 23
+    13:
+      type: item
+      item:
+        material: ACACIA_LOG
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 35
+      slot: 24
+    37:
+      type: special
+      special: BALANCE
+      slot: 53

@@ -1,0 +1,46 @@
+food:
+  name: "&2&lFood (page %page%)"
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
+  items:
+    1:
+      type: item
+      item:
+        material: BREAD
+        quantity: 5
+      buyPrice: 30
+      sellPrice: 6
+      slot: 10
+    2:
+      type: item
+      item:
+        material: BAKED_POTATO
+        quantity: 10
+      buyPrice: 20
+      sellPrice: 4
+      slot: 11
+    3:
+      type: item
+      item:
+        material: COOKIE
+        quantity: 10
+      buyPrice: 100
+      sellPrice: 20
+      slot: 12
+    4:
+      type: item
+      item:
+        material: COOKED_CHICKEN
+        quantity: 1
+        damage: 1
+      buyPrice: 25
+      sellPrice: 5
+      slot: 13

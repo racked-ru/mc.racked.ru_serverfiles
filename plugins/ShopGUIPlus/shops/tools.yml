@@ -1,0 +1,14 @@
+tools:
+  name: "&8&lTools (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: SHEARS
+        quantity: 1
+      buyPrice: 75
+      slot: 13

@@ -1,0 +1,8 @@
+&f
+               &5Ｘ Ｏ Ｖ Ｋ Ａ Ｈ
+
+ &5&l(!) &7If you need any help use &f/help
+
+ &5&l(!) &7for the most immersive experience
+ &5&l(!) &7Do &f/client &7 <--
+&f

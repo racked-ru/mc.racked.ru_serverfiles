@@ -1,0 +1,17 @@
+example_group:
+  header:
+  - This is an example of per-group header/footer
+  footer:
+  - applied to a group
+per-world:
+  world1:
+    Owner:
+      tabprefix: '&0&l[&a&lOwner&0&l] &a'
+      tagprefix: '&2&lOwner &a'
+_DEFAULT_:
+  tabprefix: '%vault-suffix%%vault-prefix%'
+  tagprefix: '%vault-suffix%%vault-prefix%'
+  tabsuffix: ''
+  tagsuffix: ''
+  customtabname: '%essentials_nickname%'
+  customtagname: '%essentials_nickname%'
